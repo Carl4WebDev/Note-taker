@@ -1,3 +1,7 @@
+![task](https://github.com/Carl4WebDev/Note-taker/assets/118111050/00f548a7-ad1a-4b46-99a3-1a15701edbe2)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
